@@ -34,6 +34,11 @@ The app allows users to input text prompts and receive synchronized audiovisual 
 
 ---
 
+## AI Video + Text-to-Speech Web App  
+[🌐 Live Demo](https://script-to-video-ethan--manarola1199.replit.app)
+
+---
+
 ## 🚀 Installation
 ```bash
 # Clone the repository
